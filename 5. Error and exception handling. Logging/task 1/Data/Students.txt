@@ -1,0 +1,7 @@
+﻿John,Doe,22,M,New York,USA
+Jane,Doe,21,F,London,Britain
+Tom,Smith,xx,M,Paris,France
+Oliver,Gold,19
+
+Laura,Boyl,25,F,Boston, USA
+Lisa,Doe,23,Fe,London,Britain

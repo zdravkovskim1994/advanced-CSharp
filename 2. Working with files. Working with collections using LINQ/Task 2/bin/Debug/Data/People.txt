@@ -1,0 +1,11 @@
+﻿John,Smith,m,21,Miami
+Mary,Doe,f,17,New York
+Katy,Smith,f,55,Seattle
+John,Doe,m,21,Miami
+Katy,Johnson,f,28,Seattle
+John,Lewis,m,45,San Diego
+Natalie,Smith,f,12,San Diego
+Nicole,Kidman,f,38,Boston
+Anna,Thomson,f,38,Chicago
+Tom,Williams,m,64,Saint Petersburg
+Diana,Williams,f,33,Albeny

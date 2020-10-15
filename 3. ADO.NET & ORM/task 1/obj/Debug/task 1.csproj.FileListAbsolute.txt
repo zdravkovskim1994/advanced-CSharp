@@ -1,0 +1,9 @@
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\bin\Debug\task 1.exe.config
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\bin\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\bin\Debug\task 1.pdb
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\bin\Debug\Dapper.dll
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\bin\Debug\Dapper.xml
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\obj\Debug\task 1.csproj.CopyComplete
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\obj\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 15 task\task 1\obj\Debug\task 1.pdb

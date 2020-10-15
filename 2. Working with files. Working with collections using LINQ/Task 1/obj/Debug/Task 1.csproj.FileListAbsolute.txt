@@ -1,0 +1,18 @@
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\bin\Debug\Task 1.exe
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\bin\Debug\Task 1.pdb
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\obj\Debug\Task 1.exe
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 1\obj\Debug\Task 1.pdb
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\bin\Debug\Task 1.exe
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\bin\Debug\Task 1.pdb
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\obj\Debug\Task 1.exe
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 1\obj\Debug\Task 1.pdb
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\bin\Debug\Task 1.exe.config
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\bin\Debug\Task 1.exe
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\bin\Debug\Task 1.pdb
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\obj\Debug\Task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\obj\Debug\Task 1.exe
+C:\Users\zdrav\Desktop\aaa\Working with files. Working with collections using LINQ\Task 1\obj\Debug\Task 1.pdb

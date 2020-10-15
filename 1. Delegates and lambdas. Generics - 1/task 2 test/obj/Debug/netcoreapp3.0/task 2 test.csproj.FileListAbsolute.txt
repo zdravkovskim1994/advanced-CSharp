@@ -1,0 +1,11 @@
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.exe
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.deps.json
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.runtimeconfig.json
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.runtimeconfig.dev.json
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.dll
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\bin\Debug\netcoreapp3.0\task 2 test.pdb
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\obj\Debug\netcoreapp3.0\task 2 test.csprojAssemblyReference.cache
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\obj\Debug\netcoreapp3.0\task 2 test.AssemblyInfoInputs.cache
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\obj\Debug\netcoreapp3.0\task 2 test.AssemblyInfo.cs
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\obj\Debug\netcoreapp3.0\task 2 test.dll
+C:\Users\Mario-PC\source\repos\Lesson 14 tasks\task 2 test\obj\Debug\netcoreapp3.0\task 2 test.pdb

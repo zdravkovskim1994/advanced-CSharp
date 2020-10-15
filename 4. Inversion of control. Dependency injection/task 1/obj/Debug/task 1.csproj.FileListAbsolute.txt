@@ -1,0 +1,20 @@
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\task 1.exe.config
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\task 1.pdb
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\Autofac.dll
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\Autofac.pdb
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\bin\Debug\Autofac.xml
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\obj\Debug\task 1.csproj.CopyComplete
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\obj\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 16 task\task 1\obj\Debug\task 1.pdb
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\task 1.exe.config
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\task 1.exe
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\task 1.pdb
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\Autofac.dll
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\Autofac.pdb
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\bin\Debug\Autofac.xml
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\obj\Debug\task 1.csproj.CopyComplete
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\obj\Debug\task 1.exe
+C:\Users\zdrav\Desktop\aaa\3. Inversion of control. Dependency injection\task 1\obj\Debug\task 1.pdb

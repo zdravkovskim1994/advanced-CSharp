@@ -1,0 +1,28 @@
+2019-12-23 16:29:13,366 ERROR Failed to load line System.String[]
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\source\repos\Lesson 17 task\task 1\LoadFromFile.cs:line 44
+2019-12-23 16:29:13,457 ERROR Failed to load line System.String[]
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\source\repos\Lesson 17 task\task 1\LoadFromFile.cs:line 45
+2019-12-23 16:29:13,465 ERROR Failed to load line System.String[]
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\source\repos\Lesson 17 task\task 1\LoadFromFile.cs:line 43
+2019-12-23 16:29:14,316 INFO Successfully inserted students
+2019-12-23 16:29:14,366 INFO Successfully inserted students
+2019-12-23 16:29:14,390 INFO Successfully inserted students
+2019-12-23 16:29:14,406 INFO Successfully inserted students
+2020-10-15 03:32:27,967 ERROR Failed to load line System.String[]
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\LoadFromFile.cs:line 44
+2020-10-15 03:32:28,342 ERROR Failed to load line System.String[]
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\LoadFromFile.cs:line 45
+2020-10-15 03:32:28,358 ERROR Failed to load line System.String[]
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at task_1.LoadFromFile.LoadStudents(String path) in C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\LoadFromFile.cs:line 43

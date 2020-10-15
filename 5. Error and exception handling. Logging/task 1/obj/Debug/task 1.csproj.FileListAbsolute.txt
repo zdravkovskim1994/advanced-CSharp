@@ -1,0 +1,22 @@
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\task 1.exe.config
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\task 1.pdb
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\Dapper.dll
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\log4net.dll
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\Dapper.xml
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\bin\Debug\log4net.xml
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\obj\Debug\task 1.csproj.CopyComplete
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\obj\Debug\task 1.exe
+C:\Users\zdrav\source\repos\Lesson 17 task\task 1\obj\Debug\task 1.pdb
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\task 1.exe.config
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\task 1.exe
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\task 1.pdb
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\Dapper.dll
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\log4net.dll
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\Dapper.xml
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\bin\Debug\log4net.xml
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\obj\Debug\task 1.csproj.CopyComplete
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\obj\Debug\task 1.exe
+C:\Users\zdrav\Desktop\aaa\5. Error and exception handling. Logging\task 1\obj\Debug\task 1.pdb

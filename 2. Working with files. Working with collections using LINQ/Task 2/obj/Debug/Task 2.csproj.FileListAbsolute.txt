@@ -1,0 +1,12 @@
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\bin\Debug\Task 2.exe
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\bin\Debug\Task 2.pdb
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\obj\Debug\Task 2.exe
+C:\Users\zdrav\source\repos\Lesson 13 tasks\Task 2\obj\Debug\Task 2.pdb
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\bin\Debug\Task 2.exe.config
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\bin\Debug\Task 2.exe
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\bin\Debug\Task 2.pdb
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\obj\Debug\Task 2.csprojAssemblyReference.cache
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\obj\Debug\Task 2.exe
+C:\Users\Mario-PC\Desktop\Lesson 13 tasks\Task 2\obj\Debug\Task 2.pdb
